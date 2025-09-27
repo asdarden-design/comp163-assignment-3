@@ -1,0 +1,26 @@
+Student struggles 
+
+What the Game is About:
+Student struggling is a short text-based branching game where you are a college student trying survive and balance academics, social life, and stress. Every decision affects your GPA, study hours, social points, and stress level. Good luck.  
+
+The theme is about GPA survival: survive to the end or fail.
+
+Branching Concepts Demonstrated: 
+branching logic  
+Course Load Choices (`easy`, `mid`, `cry`)
+Branching if/elif/else logic that changes `study_hours` and `stress_level` depending on GPA.
+Study Subject Selection 
+Different outcomes based on whether the player studies Programming, Math, English, or History.  
+Compound Conditions
+(user_choice == "Programming" or user_choice == "Math") and current_gpa < 3.0`  
+ user_choice == "History" or (social_points < 40 or stress_level > 50)`  
+Identity Operators (`is` / `is not`)
+
+---
+
+How to Run the Game  
+1. copy and paste the code using a python provider.  
+2. Save the game code into a .py.  
+3. Run the game in your terminal or somewhere you can use python code: 
+ex.```bash
+   python student_life.py
