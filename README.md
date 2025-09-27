@@ -9,5 +9,5 @@ git add Anzino_Darden_assignment_3.py
 git commit -m "Pass Test Case 4: Complete assessment with all concepts and multiple endings"
 
 git add README.md
-git commit -m "My game is about studying and school gpa's. no branching concepths because i only branched everything to the main branch. run game by "
+git commit -m "add professional documentation"
 
